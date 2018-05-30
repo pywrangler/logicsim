@@ -11,8 +11,8 @@ To run logicim (requires JVM) :
  1. Download and extract the repo.
   2. Enter the main folder where you will see the file "run.sh".
 ((for linux debian))
- You may double click the file "run.sh" and then select "run in terminal".If that does not work follow the steps below.
-    >Open terminal here or cd to this directory.
+ You may double click the file "run.sh" and then select "run in terminal".If that does not work follow the steps .
+    >Open terminal where the file "run.sh" is located or cd to this directory.
     >Type "./run.sh"
 
 ((For Windows))
