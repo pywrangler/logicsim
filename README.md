@@ -12,8 +12,8 @@ To run logicim (requires JVM) :
   2. Enter the main folder where you will see the file "run.sh".
 ((for linux debian))
  You may double click the file "run.sh" and then select "run in terminal".If that does not work follow the steps below.
-   Open terminal here or cd to this directory.
-   Type "./run.sh"
+    >Open terminal here or cd to this directory.
+    >Type "./run.sh"
 
 ((For Windows))
 Open CMD and navigate to the extracted folder. Note: There are also subfolders with the same name logicsim, do not enter into these.
