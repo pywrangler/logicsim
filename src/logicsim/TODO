@@ -1,0 +1,9 @@
+10/oct/2017
+recursive connector added
+delete self connections being created when recursively connecting or prevent them altogether
+
+11/oct2017
+do everything recursiveley : setting initial triggers and setting computed outputs
+consider node based model of connection structure
+
+
